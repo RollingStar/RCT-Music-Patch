@@ -1,6 +1,3 @@
-::Set the current directory to the folder this batch file is in
-::@cmd
-::
 ::Css1 is a special sound effects file that is not yet supported
 ::flac.exe -8 -f css1.dat
 ::
