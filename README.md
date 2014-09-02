@@ -29,7 +29,7 @@ Bugs
 
 1. Scarab doesn't preserve file creation dates.
 2. I have not yet supported css1.dat, the main sound effects file.
-3. There is a typo: "Weding Journey" should be "Wed**d**ing Journey". Will fix in a future version, probably the same version that works with css1.
+3. There is a typo: "Weding Journey" should be "Wedding Journey". Will fix in a future version, probably the same version that works with css1.
 
 License
 =======
