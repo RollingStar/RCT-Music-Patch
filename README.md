@@ -31,8 +31,9 @@ Bugs
 2. I have not yet supported css1.dat, the main sound effects file.
 3. There is a typo: "Weding Journey" should be "Wedding Journey". Will fix in a future version, probably the same version that works with css1.
 4. It seems to work for most people, but someone said "a bunch .flac files made with your script didn't work, while some .dat files could be played."
-
+5. Not a bug: "Sweat Dreams". That's really what it's called.
+ 
 License
 =======
 
-GPLv2 
+GPLv2
