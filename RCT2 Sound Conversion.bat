@@ -9,6 +9,5 @@ for %%d in (metadata\*.dat) do (
   metaflac.exe "%%~nd.flac" --import-tags-from="%%d"
 )
 
-echo FLAC conversion done. You may want to scroll and verify that it worked. Messages about "skipping unknown chunk 'fact'" are normal.
-
+echo FLAC conversion done. You may want to scroll and verify that it worked.
 pause

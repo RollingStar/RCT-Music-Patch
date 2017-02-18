@@ -3,20 +3,32 @@ RCT-Music-Patch
 
 Converts and tags RollerCoaster Tycoon music using cross-platform tools. The end result is FLAC-compressed versions of the RCT2 soundtrack, all of which have [corrected metadata](https://github.com/OpenRCT2/OpenRCT2/wiki/Music-Cleanup). They take up 58% of their original size, to 251 MB from 436 MB.
 
-Windows-only
-============
-
-If you make this work for Linux or OSX, I'll include it too.
-
 Instructions
 ============
 
+Windows
+-------
+
 1. "Clone or Download" (top of this page) then "Download ZIP".
 2. Extract ZIP.
-3. Copy every file in your /RollerCoaster Tycoon 2/Data/ folder to the ZIP folder. (Actually, you only need the css*.dat files.)
+3. Copy every file in your /RollerCoaster Tycoon 2/Data/ folder to the ZIP folder. (Actually, you only need the css\*.dat files.)
 4. Run `RCT2 Sound Conversion.bat`
 5. The batch file creates FLAC versions of each normal RCT2 sound file, then patches it with the metadata I made.
 6. As of right now, the FLACs only work with a FLAC-compatible player like [foobar2000](http://www.foobar2000.org/). I hope that OpenRCT2 will support FLAC in the future.
+
+Linux
+-----
+
+In order to run you will need to have flac installed in your system.
+
+1. As above but run the `.sh`
+
+MacOS
+-----
+You'll need to install flac, probably doing it through brew is the easiest option
+
+(untested)
+1. Same as the windows version, but run the `.sh` instead
 
 Included Programs
 =================
