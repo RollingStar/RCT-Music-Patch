@@ -1,0 +1,46 @@
+:css1.dat special sound effects file that is not yet supported
+css2.dat
+css3.dat
+css4.dat
+css5.dat
+css6.dat
+css7.dat
+css8.dat
+css9.dat
+:css10.dat nearly empty, probably unused
+css11.dat
+css12.dat
+css13.dat
+css14.dat
+css15.dat
+:css16.dat nearly empty, probably unused
+css17.dat
+css18.dat
+css19.dat
+css20.dat
+css21.dat
+css22.dat
+css23.dat
+css24.dat
+css25.dat
+css26.dat
+css27.dat
+css28.dat
+css29.dat
+css30.dat
+css31.dat
+css32.dat
+css33.dat
+css34.dat
+css35.dat
+css36.dat
+css37.dat
+css38.dat
+css39.dat
+css40.dat
+css41.dat
+css42.dat
+css43.dat
+css44.dat
+css45.dat
+css46.dat
