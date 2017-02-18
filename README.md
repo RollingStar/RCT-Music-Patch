@@ -6,7 +6,7 @@ Converts and tags RollerCoaster Tycoon music using cross-platform tools. The end
 Windows-only
 ============
 
-If you make this work for Linux or OSX, I'll include it too. Scarab is based on xdelta and FLAC is cross-platform too.
+If you make this work for Linux or OSX, I'll include it too.
 
 Instructions
 ============
@@ -21,18 +21,16 @@ Instructions
 Included Programs
 =================
 
-1. [FLAC](https://xiph.org/flac/index.html)
-2. [Scarab](https://github.com/loyso/Scarab)
+- [FLAC](https://xiph.org/flac/index.html) CLI Tools.
 
 Bugs
 ====
 
 1. Scarab doesn't preserve file creation dates.
 2. I have not yet supported css1.dat, the main sound effects file.
-3. There is a typo: "Weding Journey" should be "Wedding Journey". Will fix in a future version, probably the same version that works with css1.
-4. It seems to work for most people, but someone said "a bunch .flac files made with your script didn't work, while some .dat files could be played."
-5. Not a bug: "Sweat Dreams". That's really what it's called.
- 
+3. It seems to work for most people, but someone said "a bunch .flac files made with your script didn't work, while some .dat files could be played."
+4. Not a bug: "Sweat Dreams". That's really what it's called.
+
 License
 =======
 
